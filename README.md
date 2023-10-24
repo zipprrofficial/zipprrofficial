@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/zipprr_off" target="blank"><img src="https://img.shields.io/twitter/follow/zipprr_off?logo=twitter&style=for-the-badge" alt="zipprr_off" /></a> </p>
 
-- 🔭 We're currently working on **UrbanClap Clone Project**
+- 🔭 We're currently working on **Airbnb, Letgo, TaskRabbit, Gojek, Alibaba, Uber, Uber Eats, UrbanClap Clone Projects**
 
 - 🌱 We're currently learning **React Native, Machine Learning, Cloud Technologies**
 
